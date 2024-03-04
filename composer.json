@@ -1,0 +1,18 @@
+{
+    "name": "team/ibytenova-com",
+    "description": "ibyteNova-com Wordpress Theme",
+    "type": "project",
+    "license": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "IbyteNovaCom\\App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuqida",
+            "email": "13760597058@163.com"
+        }
+    ],
+    "require": {}
+}
